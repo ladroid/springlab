@@ -1,0 +1,53 @@
+
+_squid:S2095”"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Þ
+=squid:S2068‘" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ
+<squid:S2068`" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ
+=squid:S2068Ó" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ
+bsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(åè‚¸
+<squid:S2068G" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ
+bsquid:S1192g"FDefine a constant instead of duplicating this literal "email" 4 times.(ì¹¾øÿÿÿÿÿ
+Lsquid:S1068"0Remove this unused "choiceBookId" private field.(ì—þ©þÿÿÿÿ
+ssquid:S11926"WDefine a constant instead of duplicating this literal "org.postgresql.Driver" 10 times.(õ†¨Äùÿÿÿÿ
+=squid:S2068ï" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ
+jsquid:S00117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõ«…
+lsquid:S00100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¯¢Üùÿÿÿÿ
+_squid:S2095ü"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ð×
+^squid:S2095d"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Þ
+gsquid:S00100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÆåØ
+=squid:S2068¼" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ
+^squid:S2095z"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Þ
+lsquid:S00100ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‚³Šüÿÿÿÿ
+N
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ÚÜõ
+Usquid:S001075"=Method has 10 parameters, which is greater than 7 authorized.(Ïú¶ã
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Šøœ
+osquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ºˆÏþÿÿÿÿ
+=squid:S2068û" Remove this hard-coded password.(ÐÖÒüÿÿÿÿ
+isquid:S00117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§µà
+hsquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„èÚ_
+isquid:S00117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­½£Z
+nsquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŒ¡èþÿÿÿÿ
+<squid:S2068v" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ
+_squid:S2095¤"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(«Ä¶Ø
+[squid:HiddenFieldCheck "8Rename "books" which hides the field declared at line 9.(Ì–’›
+nsquid:S00117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŒ¡èþÿÿÿÿ
+_squid:S2095€"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(«Ä¶Ø
+Bsquid:S1068"+Remove this unused "borrows" private field.(Ÿ›¸Ô
+=squid:S2068“" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ
+_squid:S2095–"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Þ
+=squid:S2068¡" Remove this hard-coded password.(ÐÖÒüÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõ«…
+nsquid:S00117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¹¾øÿÿÿÿÿ
+osquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ£—Êüÿÿÿÿ
+msquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(£½ëñ
+U
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ªÆº ùÿÿÿÿ
+nsquid:S00117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¹¾øÿÿÿÿÿ
+_squid:S2095¢"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ð×
+jsquid:S00117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÒ×Ú
+?squid:S1148X"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Usquid:S00107"=Method has 10 parameters, which is greater than 7 authorized.(ìáð¿
+_squid:S1192}"HDefine a constant instead of duplicating this literal "surname" 3 times.(·ÓÆ‹
+isquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïú¶ã
+gsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(¬›ü¬øÿÿÿÿ
+=squid:S2068ã" Remove this hard-coded password.(ÞÂ»¹üÿÿÿÿ

@@ -1,0 +1,53 @@
+
+esquid:S2095B"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Ş8°œŞÊ¯-
+esquid:S2095j"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8°œŞÊ¯-
+ksquid:S2095û"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÊõŞàşÿÿÿÿ8°œŞÊ¯-
+ksquid:S2095ú"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8°œŞÊ¯-
+fsquid:S2095Õ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Ş8°œŞÊ¯-
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­©€«üÿÿÿÿ8°œŞÊ¯-
+nsquid:S2095—"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªƒíÈ8¸¿Íœ³-
+zsquid:S1192"WDefine a constant instead of duplicating this literal "org.postgresql.Driver" 14 times.(õ†¨Äùÿÿÿÿ8°œŞÊ¯-
+qsquid:S00117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõ«…8°œŞÊ¯-
+qsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõ«…8°œŞÊ¯-
+rsquid:S00100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŸÇıÿÿÿÿ8°œŞÊ¯-
+esquid:S2095,"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Ş8°œŞÊ¯-
+qsquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÒ×Ú8°œŞÊ¯-
+usquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¹¾øÿÿÿÿÿ8°œŞÊ¯-
+esquid:S2095\"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Ş8°œŞÊ¯-
+esquid:S2095l"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(«Ä¶Ø8°œŞÊ¯-
+nsquid:S00100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ïó±8°œŞÊ¯-
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8°œŞÊ¯-
+Ysquid:S1141•"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8¹¿Íœ³-
+usquid:S00117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŒ¡èşÿÿÿÿ8°œŞÊ¯-
+usquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿŒ¡èşÿÿÿÿ8°œŞÊ¯-
+ssquid:S1192½"TDefine a constant instead of duplicating this literal "INNER JOIN persons " 3 times.(‡›¼»8°œŞÊ¯-
+fsquid:S2095¿"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(«Ä¶Ø8°œŞÊ¯-
+fsquid:S2095ê"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¶ë‰Ş8°œŞÊ¯-
+nsquid:S00100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ßô›8°œŞÊ¯-
+ssquid:S00100ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ê¶ ÿÿÿÿÿ8°œŞÊ¯-
+ssquid:S2095£"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8°œŞÊ¯-
+usquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¹¾øÿÿÿÿÿ8°œŞÊ¯-
+psquid:S00117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­½£Z8°œŞÊ¯-
+ssquid:S2095”"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8°œŞÊ¯-
+rsquid:S2095Z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8°œŞÊ¯-
+nsquid:S00100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘÷µ˜8°œŞÊ¯-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¹¿Íœ³-
+ssquid:S2095è"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ª€şøÿÿÿÿ8°œŞÊ¯-
+fsquid:S1192E"HDefine a constant instead of duplicating this literal "surname" 3 times.(·ÓÆ‹8°œŞÊ¯-
+ssquid:S2095¯"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8°œŞÊ¯-
+[
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ªÆº ùÿÿÿÿ8°œŞÊ¯-
+‡squid:S1192½"hDefine a constant instead of duplicating this literal "ON borrows.personId = persons.personId " 3 times.(‡›¼»8°œŞÊ¯-
+{squid:S1192W"XDefine a constant instead of duplicating this literal "WHERE persons.email = ?" 3 times.(€ß§¶ıÿÿÿÿ8°œŞÊ¯-
+nsquid:S2095Ó"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªƒíÈ8°œŞÊ¯-
+vsquid:S00117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬½ıãúÿÿÿÿ8°œŞÊ¯-
+rsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8°œŞÊ¯-
+fsquid:S2095»"GUse try-with-resources or close this "Statement" in a "finally" clause.(˜ğ×8°œŞÊ¯-
+nsquid:S2095‰"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªƒíÈ8°œŞÊ¯-
+osquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„èÚ_8°œŞÊ¯-
+rsquid:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8°œŞÊ¯-
+vsquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ£—Êüÿÿÿÿ8°œŞÊ¯-
+rsquid:S2095?"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(²’ÅĞøÿÿÿÿ8°œŞÊ¯-
+usquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷€Åöüÿÿÿÿ8°œŞÊ¯-
+isquid:S1192/"FDefine a constant instead of duplicating this literal "email" 4 times.(ì¹¾øÿÿÿÿÿ8°œŞÊ¯-
+usquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¨ ¨ùÿÿÿÿ8°œŞÊ¯-

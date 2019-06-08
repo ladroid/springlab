@@ -1,0 +1,38 @@
+
+Csquid:S2068J" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+Nsquid:S1068"+Remove this unused "authorz" private field.(íÎï—şÿÿÿÿ8˜ÛÊ¯-
+Isquid:S1068"+Remove this unused "borrows" private field.(Ÿ›¸Ô8˜ÛÊ¯-
+Csquid:S2068d" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+qsquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõ«…8˜ÛÊ¯-
+Csquid:S2068y" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+zsquid:S1192!"WDefine a constant instead of duplicating this literal "org.postgresql.Driver" 14 times.(õ†¨Äùÿÿÿÿ8˜ÛÊ¯-
+Dsquid:S2068ª" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+Dsquid:S2068œ" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+bsquid:HiddenFieldCheckS"9Rename "books" which hides the field declared at line 14.(Ì–’›8˜ÛÊ¯-
+Fsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ÛÊ¯-
+Dsquid:S2068Í" Remove this hard-coded password.(¹»­èúÿÿÿÿ8õƒÒœ³-
+\squid:S00107 "=Method has 10 parameters, which is greater than 7 authorized.(¬œ¨8˜ÛÊ¯-
+Dsquid:S2068¶" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+Dsquid:S2068" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+dsquid:HiddenFieldCheckm";Rename "authorz" which hides the field declared at line 13.(ÂÀ‡8˜ÛÊ¯-
+Csquid:S2068o" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+Fsquid:S1148g"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ÛÊ¯-
+gsquid:HiddenFieldChecka"9Rename "books" which hides the field declared at line 14.(Ó†áØÿÿÿÿÿ8˜ÛÊ¯-
+msquid:S00100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÆåØ8˜ÛÊ¯-
+Csquid:S20680" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+Hsquid:S1068"*Remove this unused "person" private field.(éÌŠÀ8˜ÛÊ¯-
+Ssquid:S1068"0Remove this unused "choiceBookId" private field.(ì—ş©şÿÿÿÿ8˜ÛÊ¯-
+tsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(£½ëñ8˜ÛÊ¯-
+Csquid:S2068<" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+Csquid:S2068U" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+Dsquid:S2068ƒ" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+hsquid:HiddenFieldCheck"":Rename "person" which hides the field declared at line 15.(¥ä¹³úÿÿÿÿ8˜ÛÊ¯-
+ssquid:S00100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‚³Šüÿÿÿÿ8˜ÛÊ¯-
+Lsquid:S1068")Remove this unused "books" private field.(¦´²Ğıÿÿÿÿ8˜ÛÊ¯-
+qsquid:S00117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îõ«…8˜ÛÊ¯-
+Dsquid:S2068Ã" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+Fsquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ÛÊ¯-
+Csquid:S2068%" Remove this hard-coded password.(¹»­èúÿÿÿÿ8˜ÛÊ¯-
+rsquid:S00100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰¯¢Üùÿÿÿÿ8˜ÛÊ¯-
+Fsquid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ÛÊ¯-
+Fsquid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜ÛÊ¯-

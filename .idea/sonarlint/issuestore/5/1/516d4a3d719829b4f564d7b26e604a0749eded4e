@@ -1,0 +1,26 @@
+
+€squid:UselessImportCheck"URemove this unused import 'com.lab.lado.dbconnect.daoclasses.borrows.BorrowsDAOImpl'.(ÑÉ¤Ü8â÷’á±-
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(œ—»¤þÿÿÿÿ
+bsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(†¸¿Ç
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬½¦ñ
+gsquid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(Øùà¢ùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦¬´º
+rsquid:S1192"VDefine a constant instead of duplicating this literal "carteradams@gmail.com" 5 times.(¡§š ûÿÿÿÿ
+hsquid:S1192"LDefine a constant instead of duplicating this literal "cartenadams" 3 times.(¡§š ûÿÿÿÿ
+Dsquid:S1125"(Remove the literal "true" boolean value.(Šõè»ûÿÿÿÿ
+zsquid:UselessImportCheck"JRemove this unused import 'com.lab.lado.dbconnect.dbconnection.DBConnect'.(¦¦šåþÿÿÿÿ8¡Šüà±-
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ ìº
+gsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(è¿‹Ïûÿÿÿÿ
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(æüÝÎùÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßÁÞ•ýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(é©Ñ¥úÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø–°Øÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(„œ©«
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(¤Î–éûÿÿÿÿ

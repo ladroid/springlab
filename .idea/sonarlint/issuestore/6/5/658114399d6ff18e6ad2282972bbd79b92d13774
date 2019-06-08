@@ -1,0 +1,5 @@
+
+‹"squid:ClassVariableVisibilityCheck"QMake email a static final constant or non-public and provide accessors if needed.(¾Æ†Ëıÿÿÿÿ8‹º…œ°-
+"squid:ClassVariableVisibilityCheck"TMake password a static final constant or non-public and provide accessors if needed.(¼şòüÿÿÿÿ8‹º…œ°-
+µsquid:S1845"‘Rename field "email" to prevent any misunderstanding/clash with method "email" defined in interface "com.lab.lado.dbconnect.architecture.Person".(¾Æ†Ëıÿÿÿÿ8ªæ®ø°-
+»squid:S1845"—Rename field "password" to prevent any misunderstanding/clash with method "password" defined in interface "com.lab.lado.dbconnect.architecture.Person".(¼şòüÿÿÿÿ8ªæ®ø°-

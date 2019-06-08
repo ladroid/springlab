@@ -1,0 +1,39 @@
+
+msquid:S4488I"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ƒïƒùÿÿÿÿ8Äö”º²-
+ksquid:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–û‚ùÿÿÿÿ8µ×…ƒ­-
+Bsquid:S2629Y"$Invoke method(s) only conditionally.(Ş²íÍ8Æœõº²-
+msquid:S4488p"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‘š–´ùÿÿÿÿ8®Ûù±-
+Hsquid:S2629¹"$Invoke method(s) only conditionally.(œ™¥åûÿÿÿÿ8®Ûù±-
+dsquid:S11926"FDefine a constant instead of duplicating this literal "admin" 5 times.(İ£à 8ˆ‡Ë¾±-
+fsquid:S4488‘"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ë —&8®Ûù±-
+isquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¹ÿ„ë8®Ûù±-
+Bsquid:S2629u"$Invoke method(s) only conditionally.(„…Œæ8®Ûù±-
+Zsquid:UselessImportCheck"/Remove this unused import 'javax.jws.WebParam'.(Ä™‰8Ù˜ÛÁ±-
+fsquid:S4488|"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÀÜôÿ8®Ûù±-
+msquid:S4488W"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ˆ»Œ¨ûÿÿÿÿ8Æœõº²-
+lsquid:S4488Ó"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‹Í—€ıÿÿÿÿ8¶ğàœ³-
+esquid:S1192†"FDefine a constant instead of duplicating this literal "point" 3 times.(Òâ°Ô8ƒÙ™ù±-
+Gsquid:S2629L"$Invoke method(s) only conditionally.(ŠğÍøÿÿÿÿ8Äö”º²-
+hsquid:S4488Ã"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(½ñ¸!8®Ûù±-
+hsquid:S44882"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²‘·8µ×…ƒ­-
+isquid:S4488¤"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ĞÖü²8®Ûù±-
+gsquid:S4488¾"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ç¨Ø8®Ûù±-
+fsquid:S4488D"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Âñë8Äö”º²-
+Hsquid:S2629Ü"$Invoke method(s) only conditionally.(Æ‹åøúÿÿÿÿ8µÎæœ³-
+nsquid:S4488–"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ü…ğ¯øÿÿÿÿ8®Ûù±-
+ksquid:S4488Q"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(é”¦şşÿÿÿÿ8Æœõº²-
+Fsquid:S1125:"(Remove the literal "true" boolean value.(ºÑ¤†8—•€§­-
+isquid:UselessImportCheck"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ8Æœõº²-
+Hsquid:S2629È"$Invoke method(s) only conditionally.(Æ‹åøúÿÿÿÿ8®Ûù±-
+qsquid:S00117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó§¬‘8®Ûù±-
+Bsquid:S2629;"$Invoke method(s) only conditionally.(„˜š8”´®Ì­-
+gsquid:S4488Ÿ"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†“µò8®Ûù±-
+fsquid:S4488°"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"( Âş%8®Ûù±-
+Hsquid:S2629Š"$Invoke method(s) only conditionally.(óîÎ×üÿÿÿÿ8®Ûù±-
+fsquid:S4488k"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(İñÂë8®Ûù±-
+Csquid:S2629Œ"$Invoke method(s) only conditionally.(¤áÖ8®Ûù±-
+esquid:S1192Æ"FDefine a constant instead of duplicating this literal "email" 8 times.(†èçÉ8®Ûù±-
+nsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(¥ÑÁëúÿÿÿÿ8Æœõº²-
+ysquid:UselessImportCheck"IRemove this unused import 'org.springframework.validation.BindingResult'.(‹¶¸ùÿÿÿÿ8ƒÙ™ù±-
+isquid:S4488Ø"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(†œë8µÎæœ³-
+isquid:S4488µ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(óäü¸8®Ûù±-
